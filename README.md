@@ -4,7 +4,7 @@
 
 NOVEC is a vector-less RAG system that leverages PageIndex's hierarchical document structure and OpenAI's language models to answer questions based on uploaded documents. 
 
-Instead of using vector embeddings and similarity search, NOVEC utilises intelligent tree-based searching and LLM reasoning to identify and extract relevant content from documents.
+Instead of using vector embeddings, NOVEC utilises intelligent tree-based searching and LLM reasoning to identify and extract relevant content from documents.
 
 
 ---
